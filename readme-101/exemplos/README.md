@@ -27,7 +27,6 @@
 - [Referências](#referências)
 - [Agradecimentos](#agradecimentos)
 - [Autoras](#autoras)
-- [Licença](#licença)
 <!--te-->
 
 =================
