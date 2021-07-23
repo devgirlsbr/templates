@@ -26,7 +26,7 @@
   - [Como usar](#como-usar)
 - [Referências](#referências)
 - [Agradecimentos](#agradecimentos)
-- [Autora](#autora)
+- [Autoras](#autoras)
 - [Licença](#licença)
 <!--te-->
 
