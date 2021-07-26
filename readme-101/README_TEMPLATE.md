@@ -2,7 +2,10 @@
 
 > Coloque aqui algo visual (banner, icone, etc) que represente seu projeto (opcional)  
 
-# Título do Projeto
+# Título do Projeto  
+
+## Status do projeto:    
+> Coloque aqui: se está em desenvolvimento, concluído, sendo revisado, em atualização, etc  
 
 =================
 
