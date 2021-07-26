@@ -8,7 +8,9 @@
   <img alt="Foto do bolo de milho de caneca do blog Panelinha" src="../assets/bolo_panelinha.jpg" />
 </h1>
 
-<h1 align="center">BOLO DE MILHO DE CANECA</h1>
+<h1 align="center">BOLO DE MILHO DE CANECA</h1>  
+
+## ⏲ Em preparo 
 
 =================
 
