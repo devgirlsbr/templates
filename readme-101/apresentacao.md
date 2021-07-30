@@ -1,6 +1,6 @@
 # **README 101: teoria e prática**
 
-![Imagem-de-Mona-the-Riveterocat](../assets/logo1.png)
+![Logo-meetup](../../assets/logo1.png)
 
 Após ter visto o Legadão e entender o que é, que tal deixar um bom legado no seu portifólio do GitHub e no seu trabalho?  Bora manter as coisas organizadas e bem acessíveis para quem encontrar o seu repositório?
 
