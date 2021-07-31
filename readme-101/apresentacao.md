@@ -1,6 +1,6 @@
 # **README 101: teoria e prática**
 
-![Logo-meetup](../../assets/logo1.png)
+![Logo-meetup](./assets/logo1.png)
 
 Após ter visto o Legadão e entender o que é, que tal deixar um bom legado no seu portifólio do GitHub e no seu trabalho?  Bora manter as coisas organizadas e bem acessíveis para quem encontrar o seu repositório?
 
@@ -76,7 +76,7 @@ Traços (itens e subitens)
 
 Se você deseja incorporar imagens, faça o seguinte:
 
-![Imagem-de-Mona-the-Riveterocat](../assets/mona.png)
+![Imagem-de-Mona-the-Riveterocat](./assets/mona.png)
 
 
 4. Cabeçalhos e citações
