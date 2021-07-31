@@ -1,7 +1,7 @@
 <p align="center">
   <a>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devgirlsbr/templates?color=yellow">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devgirlsbr/templates/tree/main/readme-101?color=yellow">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devgirlsbr/templates?color=yellow">
   </a>
 </p>
 <h1 align="center">
